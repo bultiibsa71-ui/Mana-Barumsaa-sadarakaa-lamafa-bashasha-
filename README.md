@@ -1,5 +1,4 @@
-# Mana Barumsa Sadarkaa Lammaffaa Bashasha – HTML Website
-
+ Mana Barumsa Sadarkaa Lammaffaa Bashasha
 ![Project Screenshot](link-to-your-screenshot.png)  
 *(Optional: Add a screenshot of your website here)*
 
